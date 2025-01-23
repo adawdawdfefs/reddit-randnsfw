@@ -9,10 +9,15 @@ Currently the greatest limitation is that this list is manually maintained, so n
 This repo contains three (important) files.
 
 1. ``nsfwsubreddits.txt``
+
   This one contains a textfile with subreddit names on each line of the format "r/subreddit_name\n". It was taken from this reddit post: https://www.reddit.com/r/NSFWGenerators/comments/1ckyl7i/ultimate_list_of_nsfw_subreddits_2024/. Thus, it is likely missing any number of NSFW subreddits. Feel free to make pull requests updating this file.
+
 2. ``randnsfw.js``
+
   This one contains a javascript function which accesses the textfile and opens a window at the subreddit selected randomly.
+
 3. ``README``
+
   You are here!
 
 ## How to use
