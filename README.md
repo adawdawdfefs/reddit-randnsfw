@@ -4,6 +4,10 @@ This repo seeks to recreate the "randnsfw" button as a bookmark in Firefox (it m
 
 Currently the greatest limitation is that this list is manually maintained, so newer nsfw subreddits will not be on it. Of course, anyone is welcome to make a pull request adding a subreddit to the list. I do not currently have any interest in creating something that scrapes the website for nsfw subreddits to automate this process, though that would be cool.
 
+DISCLAIMER: I do not associate with any of the subreddits one can access using this tool and do not endorse anything they post.
+
+For my friend <3
+
 ## Structure
 
 This repo contains three (important) files.
