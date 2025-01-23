@@ -2,7 +2,7 @@
 
 This repo seeks to recreate the "randnsfw" button as a bookmark in Firefox (it might work in Chrome and/or Safari, it is untested). It works by accessing a text file containing a very long list of nsfw subreddits. Once set up, all you have to do is click your bookmark and you we have something resembling the old randnsfw button. You do not need to download anything to your device.
 
-Currently the greatest limitation is that this list is manually maintained, so newer nsfw subreddits will not be on it. Of course, anyone is welcome to make a pull request adding a subreddit to the list. I do not currently have any interest in creating something that scrapes the website for nsfw subreddits to automate this process, though that would be cool.
+Currently the greatest limitation is that this list is manually maintained, so newer nsfw subreddits will not be on it. Of course, anyone is welcome to make a pull request adding a subreddit to the list. I do not currently have any interest in creating something that scrapes the website for nsfw subreddits to automate this process, though that would be cool. Another issue is that this will bring you to subreddits that have been banned or quarentined for whatever reason. This is also fixable by simply deleting the line in the text file, but I am not willing to manually comb through them. Again, PRs welcome!
 
 DISCLAIMER: I do not associate with any of the subreddits one can access using this tool and do not endorse anything they post.
 
