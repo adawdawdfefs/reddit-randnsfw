@@ -6,7 +6,7 @@ Currently the greatest limitation is that this list is manually maintained, so n
 
 DISCLAIMER: I do not associate with any of the subreddits one can access using this tool and do not endorse anything they post.
 
-For my friend <3
+For my friend <3 (and other random people)
 
 ## Structure
 
