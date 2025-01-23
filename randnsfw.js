@@ -1,5 +1,5 @@
 function() {
-  fetch('https://raw.githubusercontent.com/adawdawdfefs/redditrandnsfw/refs/heads/main/nsfwsubreddits.txt')
+  fetch('https://raw.githubusercontent.com/adawdawdfefs/reddit-randnsfw/refs/heads/main/nsfwsubreddits.txt)
     .then(response => response.text())
     .then(text => {
       const lines = text.split('\n').filter(line => line.trim() !== '');
