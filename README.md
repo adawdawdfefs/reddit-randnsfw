@@ -43,3 +43,7 @@ javascript:(function() {
 ```
 
 Then simply click your bookmark. Enjoy!
+
+## Safety
+
+If you look closely at the javascript function, you'll note it pulls from a static URL, the content at which I am able to edit at any point. Given how it is written (a string from the file is appended to ``https://reddit.com``), the potential security risks are minimal; since you are copy-pasting it into your bookmarks, it is not possible for me or anyone making a PR to update this without your knowledge. That being said, if you are extremely paranoid, it would be prudent to glance over the javascript function and make sure it is safe *when you copy it* and to scroll through the text file to make sure nothing is strange.
